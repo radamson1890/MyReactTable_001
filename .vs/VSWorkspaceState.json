@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\component",
+    "\\src\\component\\table",
+    "\\src\\component\\table\\table_header",
+    "\\src\\component\\table\\table_row"
+  ],
+  "SelectedNode": "\\src\\component\\table\\table_header\\table_header_row.js",
+  "PreviewInSolutionExplorer": false
+}
